@@ -86,7 +86,7 @@ st.markdown(
 
 
 # the original dataset should be in the same folder as app.py.
-DATA_PATH = Path(__file__).parent / "business-licences.geojson"
+DATA_PATH = Path(__file__).parent / "business-streamlit.geojson"
 
 
 # ---------------------------------------------------------
